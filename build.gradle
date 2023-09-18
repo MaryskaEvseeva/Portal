@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'io.gameta.allure' version '2.11.2'
+    id 'io.qameta.allure' version '2.11.2'
     id "io.freefair.lombok" version "8.2.2"
 }
 
@@ -29,7 +29,7 @@ dependencies {
     //testCompileOnly 'org.projectlombok:lombok:1.18.24'
     //testAnnotationProcessor 'org.projectlombok:lombok:1.7.24'
     testRuntimeOnly 'org.slf4j:slf4j-simple:1.7.32'
-    testImplementation 'io.gameta.allure:allure-selenide:2.20.1'
+    testImplementation 'io.qameta.allure:allure-selenide:2.20.1'
 }
 
 test {
