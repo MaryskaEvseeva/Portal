@@ -1,1 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/1is97od32j8wwyn5?svg=true)](https://ci.appveyor.com/project/MaryskaEvseeva/patters1)
+![image](https://github.com/MaryskaEvseeva/Portal/assets/131691281/07cc810d-b88a-4e46-9b02-63f1a658c677)
+
